@@ -23,11 +23,16 @@
       <name>Kathi Stutz</name>
       <email>kathi.stutz@1und1.de</email>
     </developer>
+    <developer>
+      <id>mklein</id>
+      <name>Michael Klein</name>
+      <email>michael.klein1@1und1.de</email>
+    </developer>
   </developers>
   <scm>
-    <connection>scm:git:ssh://github.com/kstutz/jobtemplates.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/kstutz/jobtemplates.git</developerConnection>
-    <url>https://github.com/kstutz/jobtemplates</url>
+    <connection>scm:git:ssh://github.com/jenkinsci/jobtemplates-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/jobtemplates-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/jobtemplates-plugin</url>
   </scm>
   <build>
     <plugins>

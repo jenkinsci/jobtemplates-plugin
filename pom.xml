@@ -8,7 +8,7 @@
 
   <groupId>com.unitedinternet.jenkins.plugins.jobtemplates</groupId>
   <artifactId>jobtemplates</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <description>Create Jobs by copying existing templates</description>
   <url>http://wiki.jenkins-ci.org/display/JENKINS/jobtemplates+Plugin</url>

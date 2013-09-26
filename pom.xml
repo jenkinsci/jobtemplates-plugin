@@ -11,6 +11,11 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <description>Create Jobs by copying existing templates</description>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/jobtemplates+Plugin</url>
+  <issueManagement>
+    <system>JIRA</system>
+    <url>https://issues.jenkins-ci.org/browse/JENKINS/component/18127</url>
+  </issueManagement>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -19,14 +24,14 @@
   </properties>
   <developers>
     <developer>
-      <id>kstutz</id>
-      <name>Kathi Stutz</name>
-      <email>kathi.stutz@1und1.de</email>
-    </developer>
-    <developer>
       <id>mklein</id>
       <name>Michael Klein</name>
       <email>michael.klein1@1und1.de</email>
+    </developer>
+    <developer>
+      <id>kstutz</id>
+      <name>Kathi Stutz</name>
+      <email>kathi.stutz@1und1.de</email>
     </developer>
   </developers>
   <scm>
